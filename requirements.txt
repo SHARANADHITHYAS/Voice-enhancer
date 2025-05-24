@@ -1,6 +1,0 @@
-gradio
-librosa
-noisereduce
-pydub
-numpy
-soundfile
