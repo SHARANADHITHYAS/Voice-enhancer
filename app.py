@@ -1,5 +1,6 @@
 import os
-os.system("pip install -r requirements.txt")
+os.system("pip install -r requirements.txt")  # Not best practice but okay for testing
+
 import gradio as gr
 import librosa
 import noisereduce as nr
