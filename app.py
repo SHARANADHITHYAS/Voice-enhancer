@@ -1,3 +1,5 @@
+import os
+os.system("pip install -r requirements.txt")
 import gradio as gr
 import librosa
 import noisereduce as nr
