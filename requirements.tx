@@ -1,0 +1,6 @@
+gradio
+librosa
+noisereduce
+soundfile
+numpy
+pydub
